@@ -1,4 +1,4 @@
-# English demo with transcription
+ English demo with transcription
 https://github.com/user-attachments/assets/339c6bbf-4af1-454b-955d-d3357e5e18ac
-# Arabic demo
+ Arabic demo
 https://github.com/user-attachments/assets/5ff31d4d-e45c-4160-bf8a-1bc42124101c
